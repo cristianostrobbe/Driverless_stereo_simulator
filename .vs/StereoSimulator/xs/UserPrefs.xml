@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D0858B6F-B6F6-2D42-409A-A1D172B1AE7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/carTelemetry.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="94" Column="45" />
+      <File FileName="Assets/Scripts/myScripts/StereoConfiguration.cs" Line="88" Column="54" />
+      <File FileName="Assets/Scripts/carTelemetry.cs" Line="65" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="33435352-2fcf-43b5-85a2-9ea930550b33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

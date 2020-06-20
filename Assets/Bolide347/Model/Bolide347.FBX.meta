@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 586ac7da1d6f24441a06ff29ec5ecf97
+timeCreated: 1480960086
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_Bolide471
+    100002: //RootNode
+    100004: brake disk1
+    100006: brake disk2
+    100008: brake disk3
+    100010: brake disk4
+    100012: damperBL_dowen
+    100014: damperBL_up
+    100016: damperBR_dowen
+    100018: damperBR_up
+    100020: damperFL_dowen
+    100022: damperFL_up
+    100024: damperFR_dowen
+    100026: damperFR_up
+    100028: detalsBL_1
+    100030: detalsBL_2
+    100032: detalsBR_1
+    100034: detalsBR_2
+    100036: leading RodBL_A
+    100038: leading RodBL_B
+    100040: leading RodBR_A
+    100042: leading RodBR_B
+    100044: pullDowen_BL
+    100046: pullDowen_BR
+    100048: pullDowen_FL
+    100050: pullDowen_FR
+    100052: pullUP_BL
+    100054: pullUP_BR
+    100056: pullUP_FL
+    100058: pullUP_FR
+    100060: springBL
+    100062: springBR
+    100064: springFL
+    100066: springFR
+    100068: steering wheel
+    100070: susBL
+    100072: susBR
+    100074: susFL
+    100076: susFR
+    100078: Tie RodFL_A
+    100080: Tie RodFL_B
+    100082: Tie RodFR_A
+    100084: Tie RodFR_B
+    100086: wheelBL
+    100088: wheelBR
+    100090: wheelFL
+    100092: wheelFR
+    400000: Body_Bolide471
+    400002: //RootNode
+    400004: brake disk1
+    400006: brake disk2
+    400008: brake disk3
+    400010: brake disk4
+    400012: damperBL_dowen
+    400014: damperBL_up
+    400016: damperBR_dowen
+    400018: damperBR_up
+    400020: damperFL_dowen
+    400022: damperFL_up
+    400024: damperFR_dowen
+    400026: damperFR_up
+    400028: detalsBL_1
+    400030: detalsBL_2
+    400032: detalsBR_1
+    400034: detalsBR_2
+    400036: leading RodBL_A
+    400038: leading RodBL_B
+    400040: leading RodBR_A
+    400042: leading RodBR_B
+    400044: pullDowen_BL
+    400046: pullDowen_BR
+    400048: pullDowen_FL
+    400050: pullDowen_FR
+    400052: pullUP_BL
+    400054: pullUP_BR
+    400056: pullUP_FL
+    400058: pullUP_FR
+    400060: springBL
+    400062: springBR
+    400064: springFL
+    400066: springFR
+    400068: steering wheel
+    400070: susBL
+    400072: susBR
+    400074: susFL
+    400076: susFR
+    400078: Tie RodFL_A
+    400080: Tie RodFL_B
+    400082: Tie RodFR_A
+    400084: Tie RodFR_B
+    400086: wheelBL
+    400088: wheelBR
+    400090: wheelFL
+    400092: wheelFR
+    2300000: Body_Bolide471
+    2300002: brake disk1
+    2300004: brake disk2
+    2300006: brake disk3
+    2300008: brake disk4
+    2300010: damperBL_dowen
+    2300012: damperBL_up
+    2300014: damperBR_dowen
+    2300016: damperBR_up
+    2300018: damperFL_dowen
+    2300020: damperFL_up
+    2300022: damperFR_dowen
+    2300024: damperFR_up
+    2300026: detalsBL_1
+    2300028: detalsBL_2
+    2300030: detalsBR_1
+    2300032: detalsBR_2
+    2300034: leading RodBL_A
+    2300036: leading RodBL_B
+    2300038: leading RodBR_A
+    2300040: leading RodBR_B
+    2300042: pullDowen_BL
+    2300044: pullDowen_BR
+    2300046: pullDowen_FL
+    2300048: pullDowen_FR
+    2300050: pullUP_BL
+    2300052: pullUP_BR
+    2300054: pullUP_FL
+    2300056: pullUP_FR
+    2300058: springBL
+    2300060: springBR
+    2300062: springFL
+    2300064: springFR
+    2300066: steering wheel
+    2300068: susBL
+    2300070: susBR
+    2300072: susFL
+    2300074: susFR
+    2300076: Tie RodFL_A
+    2300078: Tie RodFL_B
+    2300080: Tie RodFR_A
+    2300082: Tie RodFR_B
+    2300084: wheelBL
+    2300086: wheelBR
+    2300088: wheelFL
+    2300090: wheelFR
+    3300000: Body_Bolide471
+    3300002: brake disk1
+    3300004: brake disk2
+    3300006: brake disk3
+    3300008: brake disk4
+    3300010: damperBL_dowen
+    3300012: damperBL_up
+    3300014: damperBR_dowen
+    3300016: damperBR_up
+    3300018: damperFL_dowen
+    3300020: damperFL_up
+    3300022: damperFR_dowen
+    3300024: damperFR_up
+    3300026: detalsBL_1
+    3300028: detalsBL_2
+    3300030: detalsBR_1
+    3300032: detalsBR_2
+    3300034: leading RodBL_A
+    3300036: leading RodBL_B
+    3300038: leading RodBR_A
+    3300040: leading RodBR_B
+    3300042: pullDowen_BL
+    3300044: pullDowen_BR
+    3300046: pullDowen_FL
+    3300048: pullDowen_FR
+    3300050: pullUP_BL
+    3300052: pullUP_BR
+    3300054: pullUP_FL
+    3300056: pullUP_FR
+    3300058: springBL
+    3300060: springBR
+    3300062: springFL
+    3300064: springFR
+    3300066: steering wheel
+    3300068: susBL
+    3300070: susBR
+    3300072: susFL
+    3300074: susFR
+    3300076: Tie RodFL_A
+    3300078: Tie RodFL_B
+    3300080: Tie RodFR_A
+    3300082: Tie RodFR_B
+    3300084: wheelBL
+    3300086: wheelBR
+    3300088: wheelFL
+    3300090: wheelFR
+    4300000: pullDowen_BR
+    4300002: Body_Bolide471
+    4300004: steering wheel
+    4300006: wheelFR
+    4300008: wheelFL
+    4300010: brake disk2
+    4300012: brake disk1
+    4300014: brake disk3
+    4300016: brake disk4
+    4300018: susFR
+    4300020: susFL
+    4300022: pullUP_FR
+    4300024: Tie RodFR_B
+    4300026: Tie RodFR_A
+    4300028: pullDowen_FR
+    4300030: damperFR_up
+    4300032: springFR
+    4300034: damperFR_dowen
+    4300036: damperFL_up
+    4300038: springFL
+    4300040: damperFL_dowen
+    4300042: pullDowen_FL
+    4300044: Tie RodFL_B
+    4300046: Tie RodFL_A
+    4300048: pullUP_FL
+    4300050: susBL
+    4300052: leading RodBL_A
+    4300054: leading RodBL_B
+    4300056: pullUP_BL
+    4300058: detalsBL_2
+    4300060: detalsBL_1
+    4300062: pullDowen_BL
+    4300064: susBR
+    4300066: leading RodBR_A
+    4300068: leading RodBR_B
+    4300070: detalsBR_2
+    4300072: detalsBR_1
+    4300074: pullUP_BR
+    4300076: wheelBR
+    4300078: wheelBL
+    4300080: springBR
+    4300082: damperBR_dowen
+    4300084: damperBL_up
+    4300086: springBL
+    4300088: damperBL_dowen
+    4300090: damperBR_up
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
